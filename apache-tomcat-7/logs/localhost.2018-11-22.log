@@ -1,0 +1,34 @@
+十一月 22, 2018 10:13:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 22, 2018 10:13:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 22, 2018 10:13:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 22, 2018 10:13:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 22, 2018 10:13:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 22, 2018 10:13:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 22, 2018 10:13:24 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 22, 2018 10:13:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 22, 2018 10:13:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 22, 2018 10:13:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 22, 2018 10:13:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 22, 2018 10:13:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 22, 2018 10:13:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 22, 2018 10:13:30 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 22, 2018 10:13:30 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 22, 2018 10:13:30 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@64b0d4d6')
+十一月 22, 2018 10:13:30 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@63ce44ad')

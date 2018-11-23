@@ -1,0 +1,670 @@
+十一月 16, 2018 9:54:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 9:54:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 9:54:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 9:54:18 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 9:54:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 9:54:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 9:54:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 9:54:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 9:54:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 9:54:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 9:54:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 9:54:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 9:54:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 9:54:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 9:54:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 9:54:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2074553a')
+十一月 16, 2018 9:54:28 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1a9fdfa5')
+十一月 16, 2018 10:04:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:04:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:04:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:04:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:04:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:04:34 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:04:35 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:04:36 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:04:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:04:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:04:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:04:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:04:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:04:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 10:04:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 10:04:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6fc198b3')
+十一月 16, 2018 10:04:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@5ba365e8')
+十一月 16, 2018 10:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 10:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 10:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 10:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 10:21:05 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:21:05 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:21:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:21:15 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:21:17 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:21:18 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:21:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:21:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:21:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:21:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:21:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:21:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:21:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:21:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 10:21:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 10:21:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2d8ad51')
+十一月 16, 2018 10:21:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6fd6483d')
+十一月 16, 2018 10:21:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:21:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:21:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:21:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:21:35 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:21:36 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:21:36 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:21:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:21:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:21:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:21:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:21:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:21:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:29:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:29:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:29:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:29:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:29:56 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:29:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:29:58 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:30:00 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:30:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:30:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:30:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:30:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:30:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:30:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 10:30:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 10:30:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1178ff73')
+十一月 16, 2018 10:30:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@795d3261')
+十一月 16, 2018 10:30:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:30:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:30:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:30:15 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:30:16 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:30:18 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:30:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:30:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 10:30:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 10:56:59 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:56:59 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:56:59 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:57:39 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:57:40 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:57:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:57:43 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:57:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:57:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:57:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:57:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:57:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:57:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:57:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 10:57:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 10:57:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@467496f6')
+十一月 16, 2018 10:57:48 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@640649c4')
+十一月 16, 2018 10:57:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:57:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:57:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:58:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 10:58:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 10:58:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 10:59:17 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 10:59:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 10:59:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 10:59:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 10:59:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@58e2b0bc')
+十一月 16, 2018 10:59:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@8b76750')
+十一月 16, 2018 11:00:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:00:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:00:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:01:35 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:01:37 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:01:38 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:01:39 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:01:40 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:01:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:01:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:01:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:01:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:01:41 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:01:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:01:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:01:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5b158066')
+十一月 16, 2018 11:01:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@100039fd')
+十一月 16, 2018 11:02:10 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:02:10 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:02:10 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:02:10 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 11:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:05:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:05:16 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:05:18 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:05:19 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:05:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:05:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@da20b4f')
+十一月 16, 2018 11:05:22 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@610618e1')
+十一月 16, 2018 11:27:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:27:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:27:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:27:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:27:59 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:28:00 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:28:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:28:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1063149d')
+十一月 16, 2018 11:28:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@58d51629')
+十一月 16, 2018 11:41:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:41:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:41:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:41:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:41:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:41:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:41:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:41:29 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:41:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:41:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:41:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:41:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:41:31 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:41:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:41:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:41:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3db19b11')
+十一月 16, 2018 11:41:33 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@55f33238')
+十一月 16, 2018 11:41:34 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:41:34 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:41:34 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:41:34 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 11:41:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:41:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:41:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:42:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:42:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:42:10 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:42:11 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:42:12 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:42:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:42:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:42:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:42:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:42:13 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3c25d760')
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@17e5b410')
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:42:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 11:43:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:43:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:43:42 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:43:54 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:43:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:44:00 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:44:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:44:02 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@78378d98')
+十一月 16, 2018 11:44:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@191570e3')
+十一月 16, 2018 11:44:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:44:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:44:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:44:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 11:44:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:44:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:44:14 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:44:21 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:44:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:44:24 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:44:25 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:44:26 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3dd64902')
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7ffd4898')
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:44:27 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 11:44:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:44:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:44:44 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:44:51 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 11:44:51 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 11:44:51 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 11:44:55 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:44:57 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:44:58 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:44:59 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:45:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 11:45:01 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:45:03 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 11:45:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:45:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:45:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@13bee99b')
+十一月 16, 2018 11:45:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@14049bf5')
+十一月 16, 2018 11:45:04 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 11:45:06 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 11:45:07 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 11:45:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 11:45:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 11:45:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 11:45:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 11:45:08 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4c0af79c')
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2d42548d')
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: Shutting down log system
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+十一月 16, 2018 11:45:09 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+十一月 16, 2018 2:16:38 下午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+十一月 16, 2018 2:16:39 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十一月 16, 2018 2:16:39 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十一月 16, 2018 2:16:49 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十一月 16, 2018 2:16:51 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十一月 16, 2018 2:16:52 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十一月 16, 2018 2:16:53 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十一月 16, 2018 2:16:54 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十一月 16, 2018 2:16:55 下午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十一月 16, 2018 2:16:55 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十一月 16, 2018 2:16:55 下午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十一月 16, 2018 2:16:55 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十一月 16, 2018 2:16:55 下午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+十一月 16, 2018 2:16:57 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十一月 16, 2018 2:16:57 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十一月 16, 2018 2:16:57 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@282fb8b7')
+十一月 16, 2018 2:16:57 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@691e74c3')

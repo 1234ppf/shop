@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+
+    <!-- 自动扫描该包，使SpringMVC认为包下用了@controller注解的类是控制器 -->
+    <context:component-scan base-package="com.ssm.shop.login"/>
+
+    <!--导入mybatis配置-->
+    <import resource="spring-mybatis.xml"/>
+
+<!--因为spring mvc导到dubbo.xml中，再由main方法启动，因默认资源路径是在web-info下的，故以下静态资源扫描不到。-->
+<!--
+    &lt;!&ndash;  配置静态资源，防止被springmvc过滤 &ndash;&gt;
+    <mvc:resources location="/" mapping="/**/*.html"/>
+    <mvc:resources location="/" mapping="/**/*.js"/>
+    <mvc:resources location="/" mapping="/**/*.css"/>
+    <mvc:resources location="/" mapping="/**/*.png"/>
+    <mvc:resources location="/" mapping="/**/*.gif"/>
+    <mvc:resources location="/" mapping="/**/*.woff"/>
+    <mvc:resources location="/" mapping="/**/*.ttf"/>
+    <mvc:resources location="/" mapping="/**/*.jpg"/>
+    <mvc:resources location="/" mapping="/**/*.mp3"/>
+    <mvc:resources location="/" mapping="/**/*.mp4"/>
+-->
+</beans>

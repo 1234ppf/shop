@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>shop</artifactId>
+        <groupId>com.ppf</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>shop-generator</artifactId>
+    <properties>
+        <!--数据库连接地址-->
+        <jdbc.url>jdbc:mysql://localhost:3306/ppf?characterEncoding=utf8</jdbc.url>
+        <!--账号-->
+        <userId>root</userId>
+        <!--密码-->
+        <password>123456</password>
+        <!--mysql连接驱动jar包地址-->
+        <generator.classpath>D:/apache-maven-3.5.4/conf/repo/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar</generator.classpath>
+        <!--com.ssm.api的bean生成的根路径-->
+        <generator.project-api.root>D:/buswork/shop/shop-api/src/main/java</generator.project-api.root>
+        <!--login服务的/src/main/java路径-->
+        <generator.project-service.root>D:/buswork/shop/shop-login/src/main/java</generator.project-service.root>
+        <!--login服务的/src/main/resources路径-->
+        <generator.project-service-resources.root>D:/buswork/shop/shop-login/src/main/resources</generator.project-service-resources.root>
+    </properties>
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>generator.properties</include>
+                    <include>generatorConfig.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.mybatis.generator</groupId>
+                <artifactId>mybatis-generator-maven-plugin</artifactId>
+                <version>1.3.2</version>
+                <configuration>
+                    <configurationFile>${project.basedir}/src/main/resources/generatorConfig.xml</configurationFile>
+                    <verbose>true</verbose>
+                    <overwrite>true</overwrite>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
